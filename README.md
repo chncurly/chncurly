@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian John Arnidoval</h1>
 <h3 align="center">A dedicated student with a strong passion for Technology</h3>
-<img align="center" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdraHJtcjB6djNhbndsaTZjeWx0YnZybzNqeWs2cDZ1NDQ4enF5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdraHJtcjB6djNhbndsaTZjeWx0YnZybzNqeWs2cDZ1NDQ4enF5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <h3>Education</h3>
 <p><li>Elementary School: Malpitic Elementary School</li></p>
 <p>Graduated Year: 2016 - 2017</p>
