@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW4yNmVkYmE5bWZrcWdtdGptMTJmOGN0MHJlbHpuYzRrMHV0aTNsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 🔭 I’m currently Working as a OJT at Dakila Soft
 
 
