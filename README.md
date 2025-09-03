@@ -1,12 +1,113 @@
+<div align="center">
+
 # 💫 About Me:
 🔭 I’m currently Working as a OJT at <a href="https://www.facebook.com/dakilasoft">Dakila Soft</a>
 
+# 📈 My GitHub stats:
+[![Image alt text](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![Image alt text](https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false)](https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aad5BJgX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chncurly) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chncurly) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chncurly) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanooh14@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false)<br/>
+</div>
+
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30">💻Tech Stack: </h1>
+<h3 align="center">Web Development</h3>
+<div align="center" class="badges-githubstats">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.python.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="jQuery"/>
+        </a>
+        <br>Pyhton
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center"></h3>
+
+<div align="center" class="badges-githubstats">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Relational Database Management Systems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.mysql.com/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>MySql
+      </td>
+  </tbody>
+</table>
+</div>
+
+<div align="center" class="badges-githubstats">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.w3schools.com/cpp/cpp_intro.asp" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>C++
+      </td>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center"></h3>
+
+<div align="center" class="badges-githubstats">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">FrameWork</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nodejs.org/en" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>Nodejs
+      </td>
+  </tbody>
+</table>
+</div>
