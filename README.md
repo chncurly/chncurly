@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo0c2VpNGI2aDc0aTdwZWo3cmlxOHl2MGU1cWRnYXppazZydXdydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+  
+  <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
   
 # 💫 About Me:
 
