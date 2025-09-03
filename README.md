@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo0c2VpNGI2aDc0aTdwZWo3cmlxOHl2MGU1cWRnYXppazZydXdydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
   
 # 💫 About Me:
+
 🔭 I’m currently Working as a OJT at <a href="https://www.facebook.com/dakilasoft">Dakila Soft</a>
 <p>👨‍💻 For more Information about me here's<a href="https://chncurly.github.io/christian/"> My Portfolio</a></p>
 
