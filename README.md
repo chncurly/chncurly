@@ -1,9 +1,6 @@
-
-<img src="https://vt.tiktok.com/ZSDyqQUgn/">
-
 <div align="center">
 
-
+<img src="https://vt.tiktok.com/ZSDyqEngU/" >
   
 # 💫 About Me:
 
