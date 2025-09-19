@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://vt.tiktok.com/ZSDyqEngU/" >
   
 # 💫 About Me:
 
