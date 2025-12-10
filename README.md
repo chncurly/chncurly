@@ -7,7 +7,7 @@
 
 # 📈 My GitHub stats:
 [![Image alt text](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-[![Image alt text](https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false)](https://nirzak-streak-stats.vercel.app/?user=chncurly&theme=dark&hide_border=false)
+)
 
 
 </div>
