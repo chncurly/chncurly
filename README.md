@@ -5,11 +5,6 @@
 
 <p>👨‍💻 For more Information about me here's<a href="https://chncurly.github.io/christian/"> My Portfolio</a></p>
 
-# 📈 My GitHub stats:
-[![Image alt text](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=chncurly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-)
-
-
 </div>
 
 
