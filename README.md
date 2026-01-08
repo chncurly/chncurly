@@ -54,7 +54,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="5" align="center" style="color: white;">Relational Database Management Systems</th>
+      <th colspan="2" align="center" style="color: white;">Relational Database Management Systems</th>
     </tr>
   </thead>
   <tbody>
