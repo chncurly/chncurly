@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# 💫 About Me:
+💫 About Me:
 
 <p>👨‍💻 For more Information about me here's<a href="https://chncurly.github.io/christian/"> My Portfolio</a></p>
 
